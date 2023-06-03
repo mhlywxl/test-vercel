@@ -1,0 +1,6 @@
+[submodule "Chat-Next-Web"]
+	path = Chat-Next-Web
+	url = git@github.com:mhlywxl/Chat-Next-Web.git
+[submodule "go-proxy-bingai"]
+	path = go-proxy-bingai
+	url = git@github.com:mhlywxl/go-proxy-bingai.git
